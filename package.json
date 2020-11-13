@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abidzar M",
 	"description": "A project for backend learning purpose",
+  "license": "MIT",
 	"keywords": [
 		"freecodecamp",
 		"related",
